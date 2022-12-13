@@ -1,7 +1,7 @@
 # TR10_lab
 
 # Como baixar:
-Para baixar é necessario estar no repositorio, ir onde tem "<>codigo" e baixar a pasta.zip, apos baixar é so extrair os arquivos.
+Para baixar é necessario estar no repositorio, ir onde tem "<>code" e download ZIP, apos baixar é so extrair os arquivos.
 
 # Como compilar e executar o codigo no linux e pelo terminal:
 No terminal deve estar indicado que voce esta dentro da pasta que se encontra os arquivos
