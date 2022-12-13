@@ -1,4 +1,5 @@
 # TR10_lab
+Código referente ao trabalho 3
 
 # Como baixar:
 Para baixar é necessário estar no repositório, ir onde tem "<>code" "<>code" e download ZIP, após baixar é só extrair os arquivos.
